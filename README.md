@@ -4,7 +4,8 @@
 📧 **Email:** [dhananjay5716104@gmail.com](mailto:dhananjay5716104@gmail.com)  
 🔗 **LinkedIn:** [Dhananjay Kushwaha](https://www.linkedin.com/in/dhananjaykushwaha)  
 🌐 **Portfolio:** [Portfolio Website](https://dhananjay-kushwaha.github.io/Portfolio-Website/)  
-🖇 **LeetCode:** [LeetCode Profile](https://leetcode.com/u/dhannumaurya1171/)
+🖇 **LeetCode:** [LeetCode Profile](https://leetcode.com/u/dhannumaurya1171/)  
+🖇 **Coding Studio:** [Coding Studio Profile](https://www.naukri.com/code360/profile/cd8507c3-bd35-4fc4-8e49-5f6297cd15b2)
 
 ---
 
@@ -13,8 +14,6 @@
 I am a final-year Computer Science student at G.L. Bajaj Institute of Technology & Management, Greater Noida. I have a strong passion for technology and enjoy working on projects that challenge my skills and expand my knowledge. My career objective is to leverage my technical expertise and personal skills to contribute to the success of the company I work for while achieving personal growth.
 
 ---
-
-
 
 ## 🛠 Skills
 
@@ -47,12 +46,10 @@ I am a final-year Computer Science student at G.L. Bajaj Institute of Technology
 
 ---
 
-
-
 ## 🏆 Achievements
 
 - **HackerRank:** 4 Star in C++ Domain
-- **DSA:** 400+ Questions Solved on Leetcode, Coding Studio, and Hackerrank
+- **DSA:** 400+ Questions Solved on LeetCode, Coding Studio, and HackerRank
 
 ---
 
