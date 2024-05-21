@@ -3,7 +3,8 @@
 📍 **Location:** India  
 📧 **Email:** [dhananjay5716104@gmail.com](mailto:dhananjay5716104@gmail.com)  
 🔗 **LinkedIn:** [Dhananjay Kushwaha](https://www.linkedin.com/in/dhananjaykushwaha)  
-🌐 **Portfolio:** [Portfolio Website](https://dhananjay-kushwaha.github.io/Portfolio-Website/)
+🌐 **Portfolio:** [Portfolio Website](https://dhananjay-kushwaha.github.io/Portfolio-Website/)  
+🖇 **LeetCode:** [Dhananjay's LeetCode Profile](https://leetcode.com/u/dhannumaurya1171/)
 
 ---
 
@@ -50,7 +51,6 @@ I am a final-year Computer Science student at G.L. Bajaj Institute of Technology
 ---
 
 ## 📂 Projects
-
 
 ### 🌐 Web Development Domain
 - **Personal Portfolio**
