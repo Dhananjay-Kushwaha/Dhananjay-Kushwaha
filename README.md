@@ -4,7 +4,7 @@
 📧 **Email:** [dhananjay5716104@gmail.com](mailto:dhananjay5716104@gmail.com)  
 🔗 **LinkedIn:** [Dhananjay Kushwaha](https://www.linkedin.com/in/dhananjaykushwaha)  
 🌐 **Portfolio:** [Portfolio Website](https://dhananjay-kushwaha.github.io/Portfolio-Website/)  
-🖇 **LeetCode:** [Dhananjay's LeetCode Profile](https://leetcode.com/u/dhannumaurya1171/)
+🖇 **LeetCode:** [LeetCode Profile](https://leetcode.com/u/dhannumaurya1171/)
 
 ---
 
@@ -14,22 +14,7 @@ I am a final-year Computer Science student at G.L. Bajaj Institute of Technology
 
 ---
 
-## 🎓 Education
 
-- **B-Tech, Computer Science**  
-  G.L. Bajaj Institute of Technology & Management, Greater Noida  
-  Expected Graduation: 2024  
-  **Percentage:** 70%
-
-- **Intermediate**  
-  City International School, Lucknow  
-  **Percentage:** 74.2%
-
-- **High School**  
-  ST. Joseph’s Senior Secondary School, Siswa Bazar  
-  **Percentage:** 95%
-
----
 
 ## 🛠 Skills
 
@@ -53,7 +38,7 @@ I am a final-year Computer Science student at G.L. Bajaj Institute of Technology
 ## 📂 Projects
 
 ### 🌐 Web Development Domain
-- **Personal Portfolio**
+- **Personal Portfolio** [Preview](https://dhananjay-kushwaha.github.io/Portfolio-Website/)
 - **Temperature Converter**
 
 ### 🤖 Machine Learning Domain
@@ -62,15 +47,7 @@ I am a final-year Computer Science student at G.L. Bajaj Institute of Technology
 
 ---
 
-## 📜 Certificates
 
-- **Coding Ninjas:** C++
-- **TCS ION:** Career Edge - Young Professional
-- **Coding Ninjas Slayground Challenge:** 21-Day Coding Challenge
-
-📂 **Certificates Folder:** [Google Drive](https://drive.google.com/drive/folders/1-IPR5QYwkLlQRwG9Zv35O4ez-NykFCGD?usp=sharing)
-
----
 
 ## 🏆 Achievements
 
