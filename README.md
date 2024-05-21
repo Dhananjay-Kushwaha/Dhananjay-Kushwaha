@@ -38,8 +38,8 @@ I am a final-year Computer Science student at G.L. Bajaj Institute of Technology
 ## 📂 Projects
 
 ### 🌐 Web Development Domain
-- **Personal Portfolio** [Preview](https://dhananjay-kushwaha.github.io/Portfolio-Website/)
-- **Temperature Converter** [Preview](https://dhananjay-kushwaha.github.io/Temperature-Converter/)
+- **Personal Portfolio** [view](https://dhananjay-kushwaha.github.io/Portfolio-Website/)
+- **Temperature Converter** [view](https://dhananjay-kushwaha.github.io/Temperature-Converter/)
 
 ### 🤖 Machine Learning Domain
 - **Type 2 Diabetes Prediction Using Machine Learning with SVM (Support Vector Machine)**
