@@ -1,9 +1,9 @@
 # Hi, I'm Dhananjay Kumar Kushwaha 👋
 
-**Location:** India  
-**Email:** [dhananjay5716104@gmail.com](mailto:dhananjay5716104@gmail.com)  
-**LinkedIn:** [Dhananjay Kushwaha](https://www.linkedin.com/in/dhananjaykushwaha)  
-**Portfolio:** [Portfolio Website](https://dhananjay-kushwaha.github.io/Portfolio-Website/)
+📍 **Location:** India  
+📧 **Email:** [dhananjay5716104@gmail.com](mailto:dhananjay5716104@gmail.com)  
+🔗 **LinkedIn:** [Dhananjay Kushwaha](https://www.linkedin.com/in/dhananjaykushwaha)  
+🌐 **Portfolio:** [Portfolio Website](https://dhananjay-kushwaha.github.io/Portfolio-Website/)
 
 ---
 
@@ -13,7 +13,7 @@ I am a final-year Computer Science student at G.L. Bajaj Institute of Technology
 
 ---
 
-## Education
+## 🎓 Education
 
 - **B-Tech, Computer Science**  
   G.L. Bajaj Institute of Technology & Management, Greater Noida  
@@ -30,62 +30,62 @@ I am a final-year Computer Science student at G.L. Bajaj Institute of Technology
 
 ---
 
-## Skills
+## 🛠 Skills
 
-- **Programming Languages:** C++, Python, SQL, HTML, CSS
+- **Programming Languages:** C++, Python, SQL, HTML, CSS, PHP (recently started)
 - **Other Skills:** Operating Systems
 
 ---
 
-## Internships
+## 💼 Internships
 
 - **AICTE-EduSkills Virtual Internship**  
-  Sept 2023 – Nov 2023
+  **Domain Name:** 🔐 Cybersecurity  
+  🗓 25th Sept 2023 – Nov 2023
 
 - **BHARAT INTERN Virtual Internship**  
-  Sept 2023 – Oct 2023
+  **Domain Name:** 🌐 Web Development  
+  🗓 10th Sept 2023 – 10th Oct 2023
 
 ---
 
-## Projects
+## 📂 Projects
 
-### Cybersecurity Domain
-- **Fake News Detection Using Machine Learning with Logistic Regression**
 
-### Web Development Domain
+### 🌐 Web Development Domain
 - **Personal Portfolio**
 - **Temperature Converter**
 
-### Machine Learning Domain
+### 🤖 Machine Learning Domain
 - **Type 2 Diabetes Prediction Using Machine Learning with SVM (Support Vector Machine)**
+- **Fake News Prediction using Machine Learning with Python**
 
 ---
 
-## Certificates
+## 📜 Certificates
 
 - **Coding Ninjas:** C++
 - **TCS ION:** Career Edge - Young Professional
 - **Coding Ninjas Slayground Challenge:** 21-Day Coding Challenge
 
-**Certificates Folder:** [Google Drive](https://drive.google.com/drive/folders/1-IPR5QYwkLlQRwG9Zv35O4ez-NykFCGD?usp=sharing)
+📂 **Certificates Folder:** [Google Drive](https://drive.google.com/drive/folders/1-IPR5QYwkLlQRwG9Zv35O4ez-NykFCGD?usp=sharing)
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
 - **HackerRank:** 4 Star in C++ Domain
 - **DSA:** 400+ Questions Solved on Leetcode, Coding Studio, and Hackerrank
 
 ---
 
-## Languages
+## 🌐 Languages
 
 - **Hindi**
 - **English**
 
 ---
 
-## Connect with Me
+## 🤝 Connect with Me
 
 Feel free to reach out via [email](mailto:dhananjay5716104@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dhananjaykushwaha).
-
