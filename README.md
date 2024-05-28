@@ -28,6 +28,19 @@ I am a final-year Computer Science student at G.L. Bajaj Institute of Technology
 - DSA (Fundamentals)
 - OOPs
 - Operating Systems
+## Skills
+
+### Programming Languages
+- 💻 **C++**
+- 🐍 **Python** (Basic)
+- 🗄️ **SQL**
+- 🌐 **HTML**
+- 🎨 **CSS**
+
+### Technical Skills
+- 📚 **Data Structures and Algorithms** (Fundamentals)
+- 💡 **Object-Oriented Programming (OOP)**
+- 🖥️ **Operating Systems**
 
 
 ## 💼 Internships
