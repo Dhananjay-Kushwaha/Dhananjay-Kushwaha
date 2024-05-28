@@ -15,19 +15,7 @@ I am a final-year Computer Science student at G.L. Bajaj Institute of Technology
 
 ---
 
-## Skills
 
-### Programming Languages
-- C++
-- Python (Basic)
-- SQL
-- HTML
-- CSS
-
-### Technical Skills
-- DSA (Fundamentals)
-- OOPs
-- Operating Systems
 ## Skills
 
 ### Programming Languages
